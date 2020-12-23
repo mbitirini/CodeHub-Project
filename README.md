@@ -47,7 +47,7 @@ The dashbord page contains:
 
 ### Courses page
 
-The courses page must contain:
+The courses page contains:
 
 1. all the available courses
 2. every course must have a link that leads to the course details page
@@ -58,7 +58,7 @@ The courses page must contain:
 
 ### Course details page
 
-The course details page must contain:
+The course details page contains:
 
 1. all the details of the course
 2. all the course instructors
