@@ -79,7 +79,7 @@ The course details page contains:
 
 ### Add new course page
 
-The add new course page must contain:
+The add new course page contains:
 
 1. a form with the appropriate course fields
 2. a submit button that posts the data correctly
